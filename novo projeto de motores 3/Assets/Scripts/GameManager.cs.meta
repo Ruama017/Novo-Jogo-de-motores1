@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0e6d269dc3b8f446aabd02273cae9b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hud: {instanceID: 0}
+  - msgVitoria: {instanceID: 0}
+  - clipMoeda: {fileID: 8300000, guid: 45b34c8f83560044e92a3c4f890e0af8, type: 3}
+  - clipVitoria: {fileID: 8300000, guid: 0b2ace2ec15363c418f39d243379a3cf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
